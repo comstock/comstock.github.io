@@ -1,0 +1,39 @@
+baseurl = "https://crosseyedcrafts.com.s3-website-us-east-1.amazonaws.com/"
+languageCode = "en-us"
+title = "BHP"
+# Define how many pages appear per site
+paginate = 10
+# Enable comments powered by Disqus by entering your disqus shortname
+disqusShortname = ""
+# Enable gogle analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-minimalist-theme"
+
+
+[params]
+    site_author = "Bill Comstock"
+    site_description = "Maine in the summer."
+    location = "Earth"
+    # Link custom assets relative to /static
+    avatar = "https://s.gravatar.com/avatar/e9cdc28abc4d4b9f618e6f2cfab5d37a?s=200"
+    header_background = "https://c1.staticflickr.com/3/2894/9506536872_9400fa1e37_k.jpg"
+    header_title = "BHP"
+    copyright = "Powered by [Hugo](http://gohugo.io)."
+    custom_css = []
+    custom_js  = []
+
+    # Enable gogle analytics by entering your tracking code
+    google_analytics = ""
+
+[social]
+    # Add your social network accounts to the profile section on the left
+    # by entering your username. The links to your account will be
+    # create automatically.
+    twitter   = "libdigitization"
+    facebook  = ""
+    linkedin  = ""
+    behance   = ""
+    dribbble  = ""
+    instagram = ""
+    github    = "comstock"
+    gplus     = ""
