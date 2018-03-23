@@ -1,7 +1,8 @@
 language: go
 install:
 #- go get -v[github.com/spf13/hugo]
-go get -v[https://github.com/gohugoio/hugo]
+# go get -v[https://github.com/gohugoio/hugo]
+go get -v[github.com/gohugoio/hugo]
 - pip install --user awscli
 script:
 - hugo version
