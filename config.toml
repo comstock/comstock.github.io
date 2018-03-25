@@ -9,7 +9,6 @@ disqusShortname = ""
 googleAnalytics = ""
 theme = "hugo-minimalist-theme"
 
-
 [params]
     site_author = "Bill Comstock"
     site_description = "Maine in the summer."
