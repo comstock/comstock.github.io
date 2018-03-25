@@ -10,7 +10,7 @@ googleAnalytics = ""
 theme = "hugo-minimalist-theme"
 
 [params]
-    site_author = "Bill Comstock"
+    site_author = "Tip Paine"
     site_description = "Maine in the summer."
     location = ""
     # Link custom assets relative to /static
@@ -28,11 +28,11 @@ theme = "hugo-minimalist-theme"
     # Add your social network accounts to the profile section on the left
     # by entering your username. The links to your account will be
     # create automatically.
-    twitter   = "libdigitization"
+    twitter   = ""
     facebook  = ""
     linkedin  = ""
     behance   = ""
     dribbble  = ""
     instagram = ""
-    github    = "comstock"
+    github    = ""
     gplus     = ""
