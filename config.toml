@@ -24,6 +24,8 @@ theme = "hugo-minimalist-theme"
     # Enable gogle analytics by entering your tracking code
     google_analytics = ""
 
+    enableRobotsTXT = true
+
 [social]
     # Add your social network accounts to the profile section on the left
     # by entering your username. The links to your account will be
