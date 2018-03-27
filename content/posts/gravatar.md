@@ -6,4 +6,4 @@ draft: true
 
 # {{ md5 "comstock@fas.harvard.edu" }}
 
-<img src="https://www.gravatar.com/avatar/{{ md5 "comstock@fas.harvard.edu" }}?s=200&d=identicon">
+<img src="https://www.gravatar.com/avatar/"{{ md5 "comstock@fas.harvard.edu" }}"?s=200&d=identicon">
