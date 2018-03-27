@@ -4,4 +4,4 @@ date: {{ .Date }}
 draft: true
 ---
 
-"{{md5 "comstock@fas.harvard.edu"}}""
+https://s.gravatar.com/avatar/{{md5 "comstock@foobox.net"}}?s=200

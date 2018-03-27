@@ -17,7 +17,7 @@ enableRobotsTXT = true
     location = ""
     # Link custom assets relative to /static
     # avatar = "https://s.gravatar.com/avatar/e9cdc28abc4d4b9f618e6f2cfab5d37a?s=200"
-    avatar = "https://d30y9cdsu7xlg0.cloudfront.net/png/77312-200.png"
+    avatar = "https://s.gravatar.com/avatar/7ae2ec2da1893f8d468e3a85eceb2c11?s=200"
     header_background = "https://c1.staticflickr.com/3/2894/9506536872_9400fa1e37_k.jpg"
     header_title = "BHP"
     copyright = "Powered by [Hugo](http://gohugo.io)."
