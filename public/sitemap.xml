@@ -3,34 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://crosseyedcrafts.com.s3-website-us-east-1.amazonaws.com/posts/gravatar/</loc>
-    <lastmod>2018-03-25T19:29:54-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://crosseyedcrafts.com.s3-website-us-east-1.amazonaws.com/posts/calendar/</loc>
-    <lastmod>2018-03-24T20:35:37-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://crosseyedcrafts.com.s3-website-us-east-1.amazonaws.com/</loc>
-    <lastmod>2018-03-25T19:29:54-04:00</lastmod>
+    <loc>https://d3ozbfgvtac8er.cloudfront.net/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://crosseyedcrafts.com.s3-website-us-east-1.amazonaws.com/categories/</loc>
+    <loc>https://d3ozbfgvtac8er.cloudfront.net/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://crosseyedcrafts.com.s3-website-us-east-1.amazonaws.com/posts/</loc>
-    <lastmod>2018-03-25T19:29:54-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://crosseyedcrafts.com.s3-website-us-east-1.amazonaws.com/tags/</loc>
+    <loc>https://d3ozbfgvtac8er.cloudfront.net/tags/</loc>
     <priority>0</priority>
   </url>
   

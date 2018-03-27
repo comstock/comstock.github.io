@@ -2,32 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BHP</title>
-    <link>https://crosseyedcrafts.com.s3-website-us-east-1.amazonaws.com/</link>
+    <link>https://d3ozbfgvtac8er.cloudfront.net/</link>
     <description>Recent content on BHP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Mar 2018 19:29:54 -0400</lastBuildDate>
     
-	<atom:link href="https://crosseyedcrafts.com.s3-website-us-east-1.amazonaws.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://d3ozbfgvtac8er.cloudfront.net/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Gravatar</title>
-      <link>https://crosseyedcrafts.com.s3-website-us-east-1.amazonaws.com/posts/gravatar/</link>
-      <pubDate>Sun, 25 Mar 2018 19:29:54 -0400</pubDate>
-      
-      <guid>https://crosseyedcrafts.com.s3-website-us-east-1.amazonaws.com/posts/gravatar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BHP Calendar</title>
-      <link>https://crosseyedcrafts.com.s3-website-us-east-1.amazonaws.com/posts/calendar/</link>
-      <pubDate>Sat, 24 Mar 2018 20:35:37 -0400</pubDate>
-      
-      <guid>https://crosseyedcrafts.com.s3-website-us-east-1.amazonaws.com/posts/calendar/</guid>
-      <description> </description>
-    </item>
     
   </channel>
 </rss>
